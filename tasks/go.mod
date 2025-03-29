@@ -1,4 +1,4 @@
-module tasks
+module github.com/literaen/simple_grpc/tasks
 
 go 1.23.3
 
