@@ -4,7 +4,7 @@ package users_proto;
 
 import "tasks.proto"; // Подключаем tasks
 
-option go_package = "github.com/literaen/simple_grpc/users/internal/users_proto";
+option go_package = "github.com/literaen/simple_grpc/users_proto";
 
 message User {
     uint64 id = 1;
